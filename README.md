@@ -1,6 +1,7 @@
 ### corpora
 
 ### Friday
+- todays goal is to get the data from yaml file and fetch a single page save it into the device disk.
 - [ ] Project setup
 - [ ] YAML configuration loader
 - [ ] HTTP fetcher

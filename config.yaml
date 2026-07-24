@@ -1,0 +1,13 @@
+seed_urls:
+  - https://docs.python.org
+
+scope:
+  allowed_domains:
+    - docs.python.org
+
+crawl:
+  max_depth: 2
+  user_agent: "corpora/0.1"
+
+storage:
+  output_dir: "./data"
